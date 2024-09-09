@@ -16,7 +16,7 @@ assign rule
 login as viewer
 ![Screenshot from 2024-09-08 09-11-43](https://github.com/user-attachments/assets/df702796-4a3e-48a1-a446-4f4588c9b8c2)
 # 3-run pipeline:
-a-clone repo
+a-clone repo \n
 b-build dockerfile
 c-push to your dockerhub account
 create pipeline
