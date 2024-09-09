@@ -19,3 +19,14 @@ login as viewer
 a-clone repo
 b-build dockerfile
 c-push to your dockerhub account
+create pipeline
+![Screenshot from 2024-09-08 12-17-07](https://github.com/user-attachments/assets/24a99add-71eb-48c1-8955-f112c21838b8)
+create crediniatls to login to dockerhub
+![Screenshot from 2024-09-09 21-57-52](https://github.com/user-attachments/assets/02461e22-e99a-4fc3-b57b-d81da6e3c794)
+write script in the configuration of the pipeline
+![Screenshot from 2024-09-09 22-00-54](https://github.com/user-attachments/assets/58d0fa63-3d26-47df-9183-a09919c9e1da)
+then build pipeline
+![Screenshot from 2024-09-09 22-12-11](https://github.com/user-attachments/assets/44d0b165-cd18-4e55-b140-f098c73b8c2e)
+image pushed succesfully on dockerhub
+![Screenshot from 2024-09-09 21-52-23](https://github.com/user-attachments/assets/e5d2f6b5-6757-4d47-a6c5-abc2af13f0e3)
+
